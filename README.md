@@ -8,9 +8,9 @@ El bot analiza los mensajes del usuario y determina la intención de la consulta
 
 ### Intenciones y Entidades
 
-Intenciones: Reserva, Vuelo, Cancelación.
+- Intenciones: Reserva, Vuelo, Cancelación.
 
-Entidades: Localización, Fecha, Cantidad.
+- Entidades: Localización, Fecha, Cantidad.
 
 ### ¿Cómo probarlo?
 
