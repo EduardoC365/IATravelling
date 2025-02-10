@@ -21,4 +21,5 @@ https://dudi-travelling.streamlit.app/
 ![image](https://github.com/user-attachments/assets/5f509b5e-3b3b-4800-af08-f8e7820f58fb)
 ![image](https://github.com/user-attachments/assets/52400c18-5408-4dfc-ae27-30fc4c9ba4ba)
 ![image](https://github.com/user-attachments/assets/00fadb50-0f56-4d9e-b697-ecb1ed7844c1)
+- Cantidad de entidades seleccionadas.
 ![image](https://github.com/user-attachments/assets/0af5ee36-8fad-459b-8048-aafa4f2f78d8)
