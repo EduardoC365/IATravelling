@@ -15,4 +15,4 @@ El bot analiza los mensajes del usuario y determina la intención de la consulta
 ### ¿Cómo probarlo?
 
 Puedes probar la herramienta accediendo a:
-Dudi Travelling
+https://dudi-travelling.streamlit.app/
